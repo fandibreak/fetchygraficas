@@ -1,0 +1,21 @@
+.divP{
+
+    border: black 2px solid;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    border-radius: 20px;
+    
+  }
+
+  .divA{
+
+    border: black 2px solid;
+    background-color: rgb(137, 143, 228);
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    border-radius: 20px;
+    
+  }
